@@ -1,28 +1,4 @@
 ### Hi there 👋
-Languages and Tools:
-Visual Studio Code
-
-HTML5
-
-CSS3
-
-Sass
-
-JavaScript
-
-React
-
-Gatsby
-
-GraphQL
-
-Node.js
-
-MongoDB
-
-Git
-
-GitHub
 
 Terminal
 <!--
