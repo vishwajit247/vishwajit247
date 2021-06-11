@@ -1,5 +1,30 @@
 ### Hi there 👋
+Languages and Tools:
+Visual Studio Code
 
+HTML5
+
+CSS3
+
+Sass
+
+JavaScript
+
+React
+
+Gatsby
+
+GraphQL
+
+Node.js
+
+MongoDB
+
+Git
+
+GitHub
+
+Terminal
 <!--
 **vishwajit247/vishwajit247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
